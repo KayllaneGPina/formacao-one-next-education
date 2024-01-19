@@ -5,7 +5,7 @@ O ONE é um programa de educação e empregabilidade com objetivo social de capa
 - [x] Aprender a aprender
 - [x] Turbine seu Linkedin
 - [x] Foco no dia a dia
-- [ ] Comece pelos seus hábitos
+- [x] Comece pelos seus hábitos
 
 ### Cronograma de Estudos - Iniciante em Programação T6 - ONE
 - [x] Aprenda lógica de programação
